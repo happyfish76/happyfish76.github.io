@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://happyfish.com/2024/12/17/JPEG/</loc>
+    
+    <lastmod>2024-12-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://happyfish.com/categories/index.html</loc>
     
     <lastmod>2024-12-17</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://happyfish.com/box/gallery/index.html</loc>
+    <loc>http://happyfish.com/life/games/index.html</loc>
     
     <lastmod>2024-12-17</lastmod>
     
@@ -38,25 +47,7 @@
   </url>
   
   <url>
-    <loc>http://happyfish.com/life/games/index.html</loc>
-    
-    <lastmod>2024-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://happyfish.com/personal/about/index.html</loc>
-    
-    <lastmod>2024-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://happyfish.com/personal/bb/index.html</loc>
+    <loc>http://happyfish.com/box/gallery/index.html</loc>
     
     <lastmod>2024-12-17</lastmod>
     
@@ -83,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://happyfish.com/site/census/index.html</loc>
+    <loc>http://happyfish.com/personal/bb/index.html</loc>
     
     <lastmod>2024-12-17</lastmod>
     
@@ -92,7 +83,16 @@
   </url>
   
   <url>
-    <loc>http://happyfish.com/social/link/index.html</loc>
+    <loc>http://happyfish.com/personal/about/index.html</loc>
+    
+    <lastmod>2024-12-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://happyfish.com/site/census/index.html</loc>
     
     <lastmod>2024-12-17</lastmod>
     
@@ -111,6 +111,15 @@
   
   <url>
     <loc>http://happyfish.com/site/time/index.html</loc>
+    
+    <lastmod>2024-12-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://happyfish.com/social/link/index.html</loc>
     
     <lastmod>2024-12-17</lastmod>
     
